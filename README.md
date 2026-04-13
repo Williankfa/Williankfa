@@ -15,7 +15,7 @@ Estou mergulhado nos fundamentos que compõem um software de qualidade, prioriza
 ### 📚 Conhecimentos em Evolução
 *   **Tecnologias:** Lógica de Programação e introdução ao Desenvolvimento Web (HTML/CSS/JS).
 *   **Soft Skills:** Comunicação assertiva, proatividade e facilidade em trabalhar em grupo.
-*   **Idiomas:** Inglês Fluente (C2) | Português Nativo.
+*   **Idiomas:** Inglês Básico | Português Nativo.
 
 ### 🎯 Objetivo
 Busco minha primeira oportunidade como **estagiário ou desenvolvedor trainee**, onde eu possa contribuir com minha energia, aprender com profissionais experientes e aplicar meu conhecimento técnico em projetos reais.
