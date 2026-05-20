@@ -4,7 +4,7 @@ Atualmente cursando o **1º semestre de Engenharia de Software**, com foco total
 
 ---
 
-### 🛠️ Foco de Aprendizado
+###  Foco de Aprendizado
 Estou mergulhado nos fundamentos que compõem um software de qualidade, priorizando a lógica e a clareza no desenvolvimento.
 
 *   **Fundamentos de Engenharia:** Dedicação ao estudo de Algoritmos, Lógica de Programação e Estruturas de Dados.
