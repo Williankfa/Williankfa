@@ -140,7 +140,7 @@
 ##  Minha Jornada
 
 ```
-2025 ──────────────────────────────────────────────────────────────►
+2026 ──────────────────────────────────────────────────────────────►
   │
   ├─   Iniciou Engenharia de Software
   ├─   Fundamentos de Lógica de Programação
@@ -148,8 +148,7 @@
   ├─   Algoritmos e Estruturas de Dados
   ├─   Git & GitHub na prática
   ├─   Primeiro projeto web completo
-  ├─   Framework (React ou Vue)
-  └─   Primeira oportunidade como Estagiário / Trainee
+  ├─   Framework (React)
 ```
 
 ---
