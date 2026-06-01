@@ -1,25 +1,12 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    WILLIAN KELVIN — README.md                 -->
-<!--          Substitua SEU-USUARIO pelo seu username GitHub     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!--              HEADER WAVE + TÍTULO              -->
-<!-- ╚══════════════════════════════════════════════╝ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2137,100:1f6feb&height=260&section=header&text=Willian%20Kelvin&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%201%C2%BA%20Semestre&descAlignY=62&descSize=20&descColor=58a6ff"/>
 
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!--            ANIMAÇÃO DE DIGITAÇÃO               -->
-<!-- ╚══════════════════════════════════════════════╝ -->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=+Construindo+fundamentos+sólidos...;+Apaixonado+por+Clean+Code+e+boas+práticas;+Buscando+minha+primeira+oportunidade;+Aprendendo+e+evoluindo+todos+os+dias;+Engenharia+de+Software+%7C+1º+Semestre)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!--            BADGES DE PERFIL                    -->
-<!-- ╚══════════════════════════════════════════════╝ -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Williankfa&color=1f6feb&style=for-the-badge&label=VISITAS+AO+PERFIL)
 ![](https://img.shields.io/badge/Status-Estudando%20sempre-%231f6feb?style=for-the-badge&logo=bookstack&logoColor=white)
 ![](https://img.shields.io/badge/Open%20to-Estágio%20%2F%20Trainee-%2339d353?style=for-the-badge&logo=checkmarx&logoColor=white)
@@ -29,10 +16,6 @@
 <br/>
 
 ---
-
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!--              SOBRE MIM                         -->
-<!-- ╚══════════════════════════════════════════════╝ -->
 
 <div align="center">
 
@@ -57,10 +40,6 @@
 </div>
 
 ---
-
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!--            STACK TECNOLÓGICA                   -->
-<!-- ╚══════════════════════════════════════════════╝ -->
 
 ##  Stack & Ferramentas
 
@@ -90,10 +69,6 @@
 
 ---
 
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!--         ESTATÍSTICAS GITHUB                    -->
-<!-- ╚══════════════════════════════════════════════╝ -->
-
 ##  Estatísticas GitHub
 
 <div align="center">
@@ -113,10 +88,6 @@
 
 ---
 
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!--         GRÁFICO DE CONTRIBUIÇÕES               -->
-<!-- ╚══════════════════════════════════════════════╝ -->
-
 ##  Histórico de Contribuições
 
 <div align="center">
@@ -131,10 +102,6 @@
 </div>
 
 ---
-
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!--         JORNADA / ROADMAP PESSOAL              -->
-<!-- ╚══════════════════════════════════════════════╝ -->
 
 ##  Minha Jornada
 
@@ -152,9 +119,6 @@
 
 ---
 
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!--         OBJETIVOS & FOCO ATUAL                 -->
-<!-- ╚══════════════════════════════════════════════╝ -->
 
 ##  Objetivos & Foco Atual
 
@@ -170,10 +134,6 @@
 
 ---
 
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!--         CONTATOS                               -->
-<!-- ╚══════════════════════════════════════════════╝ -->
-
 ##  Onde me encontrar
 
 <div align="center">
@@ -186,13 +146,7 @@
 
 ---
 
-
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!--         FOOTER WAVE                            -->
-<!-- ╚══════════════════════════════════════════════╝ -->
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,60:0d2137,100:0d1117&height=130&section=footer"/>
 
 ---
-
 
