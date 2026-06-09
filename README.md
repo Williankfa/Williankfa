@@ -7,7 +7,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Williankfa&color=1f6feb&style=for-the-badge&label=VISITAS+AO+PERFIL)
 ![](https://img.shields.io/badge/Status-Estudando%20sempre-%231f6feb?style=for-the-badge&logo=bookstack&logoColor=white)
 ![](https://img.shields.io/badge/Open%20to-Estágio%20%2F%20Trainee-%2339d353?style=for-the-badge&logo=checkmarx&logoColor=white)
 
