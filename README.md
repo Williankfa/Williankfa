@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2137,100:1f6feb&height=260&section=header&text=Willian%20Kelvin&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%202%C1%BA%20Semestre&descAlignY=62&descSize=20&descColor=58a6ff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2137,100:1f6feb&height=260&section=header&text=Willian%20Kelvin&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%202%C2%BA%20Semestre&descAlignY=62&descSize=20&descColor=58a6ff"/>
 
 <div align="center">
 
