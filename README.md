@@ -19,7 +19,7 @@
 
 ##  Sobre mim
 
- Cursando **Engenharia de Software** — 1º Semestre
+ Cursando **Engenharia de Software** — 2º Semestre
 
  **Belém, Pará — Brasil**
 
